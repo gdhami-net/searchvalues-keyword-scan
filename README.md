@@ -1,7 +1,6 @@
 # searchvalues-keyword-scan
 
-Companion repo for **"How much faster SearchValues&lt;string&gt; finds keywords
-than a Contains loop"** ([gdhami.net](https://gdhami.net) — link added when the
+Companion repo for **"What decides whether SearchValues&lt;string&gt; beats a Contains loop"** ([gdhami.net](https://gdhami.net) — link added when the
 post is live).
 
 Three ways to ask "does this text contain any of my keywords", measured against
