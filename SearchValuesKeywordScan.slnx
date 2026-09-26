@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KeywordScan.Benchmarks/KeywordScan.Benchmarks.csproj" />
+  <Project Path="KeywordScan.Tests/KeywordScan.Tests.csproj" />
+  <Project Path="KeywordScan/KeywordScan.csproj" />
+</Solution>
